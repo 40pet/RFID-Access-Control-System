@@ -42,7 +42,7 @@ This project implements an RFID-based access control system using an Arduino Nan
 | Red LED               | Control        | 5                | Pin controlling the Red LED          |
 | Yellow LED            | Control        | 7                | Pin controlling the Yellow LED       |
 | GND                   | Ground         | GND              | Ground connection for all components |
-| VCC (MFRC522)         | Power          | 3.3V or 5V       | Power supply for the RFID reader     |
+| VCC (MFRC522)         | Power          | 3.3V             | Power supply for the RFID reader     |
 | VCC (Relay Module)    | Power          | 5V               | Power supply for the relay module    |
 | VCC (LEDs)            | Power          | 5V               | Power supply for the LEDs            |
 
